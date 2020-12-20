@@ -1,0 +1,26 @@
+				
+----------------
+Dati dello studente 
+----------------
+Nome Cognome
+Bajron Ismailaj
+Matricola 2686563
+Esame da 6 crediti
+Secondo Anno
+Vecchio ordinamento
+01/07/2020
+
+
+----------------
+Manuale d'uso
+---------------
+
+La relazione viene accompagnata con i file sviluppati in Matlab per la risoluzione dei esercizi. I file
+sono organizzati nelle cartelle nel modo seguente
+
+ 	-Gli esercizi che non hanno bisogno del file in Matlab non hanno cartella di riferimento
+	-Gli esercizi che vengono accompagnati da file in Matlab hanno la cartella di riferimento. Per esempio
+		l'esercizio 4 ha di riferimento la cartella e4 che contiene il file per la risoluzione.
+ 	-Se piu esercizi usano gli stessi file in Matlab vengono raggruppati nella stessa cartella il cui nome include
+		il numero dell'esercizio per esempio gli esercizi 8; 9 e 10 sono accompagnati dalla cartella e11-e12-e13
+		che contiene tutti i file per le risoluzioni.
