@@ -13,7 +13,7 @@ Vecchio ordinamento
 
 ----------------
 Manuale d'uso
----------------
+----------------
 
 La relazione viene accompagnata con i file sviluppati in Matlab per la risoluzione dei esercizi. I file
 sono organizzati nelle cartelle nel modo seguente
